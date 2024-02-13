@@ -1,0 +1,7 @@
+dataset: i2b2_task5_base8_inc2
+
+method: IS3
+
+prompt_type: none
+
+lr: 1e-6

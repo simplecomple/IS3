@@ -1,0 +1,9 @@
+dataset: ontonotes5_task6_base8_inc2
+
+method: IS3
+
+prompt_type: none
+
+lr: 1e-6
+
+IS3_distill_weight: 10

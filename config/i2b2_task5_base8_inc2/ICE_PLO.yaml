@@ -1,0 +1,11 @@
+dataset: i2b2_task5_base8_inc2
+
+method: ICE
+
+prompt_type: none
+
+ICE_PLO: True
+
+ICE_O: False
+
+classifier_lr: 3e-4

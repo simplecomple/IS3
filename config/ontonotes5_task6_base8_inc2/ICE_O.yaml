@@ -1,0 +1,11 @@
+dataset: ontonotes5_task6_base8_inc2
+
+method: ICE
+
+prompt_type: none
+
+ICE_PLO: False
+
+ICE_O: True
+
+classifier_lr: 5e-4
